@@ -2,7 +2,7 @@
 
 ## Santander Dev Week 2022
  
-Projeto de uma aplicação web que se comunica via requisições https baseada na arquitetura REST desenvolvida com SpringBoot e disponibilizada no Heroku.
+Projeto de uma aplicação web que se comunica via requisições https baseada na arquitetura REST (bankline-api) desenvolvida com SpringBoot e disponibilizada no Heroku.
 
 https://tmmt-bankline-api.herokuapp.com/swagger-ui/index.html
 
